@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.28ae54c1.chunk.css",
+    "main.js": "/react-website/static/js/main.dc1ae054.chunk.js",
+    "main.js.map": "/react-website/static/js/main.dc1ae054.chunk.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.caee497b.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.caee497b.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/react-website/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.71e80448.chunk.js": "/react-website/static/js/2.71e80448.chunk.js",
+    "static/js/2.71e80448.chunk.js.map": "/react-website/static/js/2.71e80448.chunk.js.map",
+    "index.html": "/react-website/index.html",
+    "precache-manifest.bb0276cd62c6e4436b8c8ce93bf6cd03.js": "/react-website/precache-manifest.bb0276cd62c6e4436b8c8ce93bf6cd03.js",
+    "service-worker.js": "/react-website/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/react-website/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.28ae54c1.chunk.css.map": "/react-website/static/css/main.28ae54c1.chunk.css.map",
+    "static/js/2.71e80448.chunk.js.LICENSE.txt": "/react-website/static/js/2.71e80448.chunk.js.LICENSE.txt",
+    "static/media/Mask Group-1.png": "/react-website/static/media/Mask Group-1.c12c2961.png",
+    "static/media/Mask Group-2.png": "/react-website/static/media/Mask Group-2.b2a0d5f0.png",
+    "static/media/Mask Group-3.png": "/react-website/static/media/Mask Group-3.7f55e8ff.png",
+    "static/media/Mask Group-4.png": "/react-website/static/media/Mask Group-4.302f793d.png",
+    "static/media/Mask Group.png": "/react-website/static/media/Mask Group.e5cebc3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caee497b.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.71e80448.chunk.js",
+    "static/css/main.28ae54c1.chunk.css",
+    "static/js/main.dc1ae054.chunk.js"
+  ]
+}
